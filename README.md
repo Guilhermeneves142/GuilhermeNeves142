@@ -4,8 +4,8 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Web Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Solinftec**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Vue
+ 💻  &nbsp; Estou trabalhando na **Solinftec**
+ <br/> ⚙️ &nbsp; Buscando colaborar com projetos em Front-end usando Vue
  <br/> :blush: &nbsp; Posso te ajudar com problemas de lógica e desenvolvimento com Vue
  <br/> :computer: &nbsp; Minha stack: Vue, Typescript, Javascript, Java, Postgres
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, jogos e séries
