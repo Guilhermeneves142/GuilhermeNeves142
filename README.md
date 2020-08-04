@@ -8,7 +8,7 @@ Sou um Web Developer :computer:
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Vue
  <br/> :blush: &nbsp; Posso te ajudar com problemas de lógica e desenvolvimento com Vue
  <br/> :computer: &nbsp; Minha stack: Vue, Typescript, Javascript, Java, Postgres
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias,jogos e séries
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, jogos e séries
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeNevesTrindade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-neves-trindade-6a566914a/)](https://www.linkedin.com/in/guilherme-neves-trindade-6a566914a/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-guilherme_n2010@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme_n2010@hotmail.com)](mailto:guilherme_n2010@hotmail.com)
