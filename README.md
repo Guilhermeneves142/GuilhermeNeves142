@@ -1,16 +1,14 @@
-### Hi there 👋
+# Guilherme Neves Trindade
 
-<!--
-**Guilhermeneves142/GuilhermeNeves142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um Web Developer :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Estou trabalhando na **Solinftec**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Vue
+ <br/> :blush: &nbsp; Posso te ajudar com problemas de lógica e desenvolvimento com Vue
+ <br/> :computer: &nbsp; Minha stack: Vue, Typescript, Javascript, Java, Postgres
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias,jogos e séries
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeNevesTrindade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-neves-trindade-6a566914a/)](https://www.linkedin.com/in/guilherme-neves-trindade-6a566914a/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-guilherme_n2010@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme_n2010@hotmail.com)](mailto:guilherme_n2010@hotmail.com)
