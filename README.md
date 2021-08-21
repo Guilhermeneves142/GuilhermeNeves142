@@ -7,7 +7,7 @@ Sou um Web Developer :computer:
  💻  &nbsp; Estou trabalhando na **Solinftec**
  <br/> ⚙️ &nbsp; Buscando colaborar com projetos em Front-end usando Vue
  <br/> :blush: &nbsp; Posso te ajudar com problemas de lógica e desenvolvimento com Vue
- <br/> :computer: &nbsp; Minha stack: Vue, Typescript, Javascript, Java, SQL
+ <br/> :computer: &nbsp; Minha stack: HTML, CSS, C, PostgreSql, Vue, Typescript, Javascript, Java, SQL
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, jogos e séries
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeNevesTrindade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-neves-trindade-6a566914a/)](https://www.linkedin.com/in/guilherme-neves-trindade-6a566914a/) 
 | 
