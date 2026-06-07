@@ -4,7 +4,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Web Developer :computer:
 
- 💻  &nbsp; Estou trabalhando na **Solinftec**
+ 💻  &nbsp; Estou trabalhando na **Solix**
  <br/> ⚙️ &nbsp; Buscando colaborar com projetos em Front-end
  <br/> :blush: &nbsp; Posso te ajudar com problemas de lógica e desenvolvimento com Vue
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, PostgreSql, Vue, Typescript, Javascript, Java e Golang
